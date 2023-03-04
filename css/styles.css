@@ -1,0 +1,172 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+    
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.3;
+    color: #2E2F42;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+.header-nav a {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+text-decoration: none;
+}
+
+.contact {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+}
+.contact-list .contact:is(:hover, :focus) {
+    color: #404BBF;
+}
+.section-blue {
+    background: #2E2F42;
+}
+
+.main-header {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.order-btn {
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+        border-radius: 4px;
+}
+.about-us h3 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.about-us p {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.our-work h2 {
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.team {
+background-color: #F4F4FD;
+}
+.team h3 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.team-list h3 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.team-list p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.1;
+        letter-spacing: 0.03em;
+        color: #F4F4FD;
+        text-decoration: none;
+}
+.buttons-list .btns {
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+        background-color: #F4F4FD;
+        border: 1px solid #E7E9FC;
+        border-radius: 4px;
+        cursor: pointer;
+}
+.buttons-list .btns:is(:hover, :focus) {
+color: #FFFFFF;
+background-color: #404BBF;
+}
+.portfolio h3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.portfolio p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.footer p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #E7E9FC;
+}
