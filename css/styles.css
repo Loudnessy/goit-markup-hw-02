@@ -1,6 +1,9 @@
+:root {
+    --brand-color: #4d5ae5;
+}
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+    color: #434455;
     
 }
 .logo {
@@ -8,13 +11,22 @@ body {
     font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1.3;
-    color: #2E2F42;
+        line-height: 1.17;
+    color: #4D5AE5;
     letter-spacing: 0.03em;
+    text-transform: uppercase
+}
+.link {
     text-decoration: none;
+}
+.accent {
+    color: #2e2f42;
 }
 .list {
     list-style: none;
+}
+.contacts-addresses {
+    font-style: normal;
 }
 .header-nav a {
     font-family: 'Roboto', sans-serif;
