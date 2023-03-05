@@ -99,13 +99,15 @@ text-align: center;
     color: #434455;
 }
 
-.our-work h2 {
+.our-work .header-work {
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2E2F42;
+text-align: center;
+text-transform: capitalize;
 }
 .team {
 background-color: #F4F4FD;
@@ -114,7 +116,7 @@ background-color: #F4F4FD;
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.1;
+        line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
@@ -157,6 +159,9 @@ background-color: #F4F4FD;
 color: var(--brand-color);
         text-decoration: none;
         text-transform: uppercase;
+}
+.second-accent {
+    color: #f4f4fd;
 }
 .buttons-list .btns {
     font-family: 'Roboto', sans-serif;
