@@ -169,7 +169,7 @@ color: var(--brand-color);
         cursor: pointer;
 }
 .buttons-list .btns:is(:hover, :focus) {
-color: var();
+color: var(--fifth-color);
 background-color: var(--fourth-color) ;
 }
 .apps-header {
